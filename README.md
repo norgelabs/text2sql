@@ -58,4 +58,8 @@ Toda a lógica do assistente foi desenvolvida utilizando Typebot. Para visualiza
 
 ---
 
+<<<<<<< HEAD
 Espero que isso atenda às suas necessidades!
+=======
+Espero que isso atenda às suas necessidades!
+>>>>>>> ef005bf766622d601e1edec376fc7f7f095d8cfd
