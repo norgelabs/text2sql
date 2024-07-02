@@ -2,10 +2,10 @@
 function main(array $args) : array
 {
     // Parâmetros de conexão com o banco de dados MySQL
-    $servername = "database-1.c04ivxysluch.us-east-1.rds.amazonaws.com";
-    $username = "user_read_only";
-    $password = "laborit_teste_2789";
-    $dbname = "northwind";
+    $servername = "server";
+    $username = "user";
+    $password = "pass";
+    $dbname = "dbname";
 
     // Criar conexão
     $conn = new mysqli($servername, $username, $password, $dbname);
