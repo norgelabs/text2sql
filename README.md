@@ -1,6 +1,4 @@
-Aqui está o texto formatado como um README melhorado:
 
----
 
 # Como Instalar
 
@@ -57,9 +55,3 @@ Toda a lógica do assistente foi desenvolvida utilizando Typebot. Para visualiza
 - Será avaliado com base na qualidade do SQL gerado pela aplicação e na precisão das respostas obtidas ao executar o SQL no banco de dados.
 
 ---
-
-<<<<<<< HEAD
-Espero que isso atenda às suas necessidades!
-=======
-Espero que isso atenda às suas necessidades!
->>>>>>> ef005bf766622d601e1edec376fc7f7f095d8cfd
